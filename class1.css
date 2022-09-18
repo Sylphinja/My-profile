@@ -33,3 +33,37 @@
   border-radius: 50%;
   margin: auto;
 }
+
+.content {
+  margin:50px auto;
+  width: 60%;
+  height: auto;
+  background-color: rgb(255, 43, 43);
+}
+
+.content-box {
+  width: 609px;
+  min-height: 400px;
+  margin:0px auto;
+  padding: 25px
+
+}
+
+.content-box p{
+  color: rgb(77, 0, 0);
+}
+
+.footer {
+  width: 100%;
+  height: 100px;
+  background-color: rgb(50, 5, 92);
+  text-align: center;
+}
+
+.footer h1 {
+  color:beige
+}
+
+.footer h2{
+  color: aliceblue;
+}
